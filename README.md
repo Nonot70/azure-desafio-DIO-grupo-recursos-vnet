@@ -1,4 +1,4 @@
-# 🚀 Desafio 4 – Construindo Arquiteturas no Azure: Grupo de Recursos e Rede Virtual  
+# 🚀 Desafio – Construindo Arquiteturas no Azure: Grupo de Recursos e Rede Virtual  
 
 Este repositório faz parte do meu aprendizado no **Bootcamp Microsoft Azure AZ-900**, promovido pela DIO em parceria com a Microsoft.  
 O objetivo deste desafio é consolidar os conceitos de **organização e infraestrutura na nuvem**, criando um **Grupo de Recursos** e uma **Rede Virtual (VNET)** no portal do Azure.  
